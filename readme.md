@@ -1,0 +1,1 @@
+Verona is a statically typed systems programming language with S-expression syntax, compile-time macros, and native compilation through LLVM. This organization hosts the compiler, core libraries, developer tools, and examples.
